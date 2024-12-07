@@ -16,4 +16,3 @@ EXPOSE 3001
 
 # Start the application using the correct CMD
 CMD ["node", "App.js"]
-
